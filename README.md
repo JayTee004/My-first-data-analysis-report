@@ -1,1 +1,2 @@
-# My-first-data-analysis.
+#Equal Rights For All; My-first-data-analysis.
+*Problem Objective: 
